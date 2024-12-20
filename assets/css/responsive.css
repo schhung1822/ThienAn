@@ -1,0 +1,23 @@
+@media (min-width: 1024px) and (max-width: 1366px) {}
+
+/* Table & Mobile */
+@media (max-width: 1023px) {
+    .hidden-table-mobile {
+        display: none;
+    }
+
+
+}
+
+
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px) {}
+
+/* Mobile */
+@media (max-width: 739px) {
+    .hidden-mobile {
+        display: none !important;
+    }
+
+
+}
